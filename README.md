@@ -133,7 +133,7 @@ We designed **7 practical, assessment-based certifications**:
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/🌐_Community-9K+-C94444?style=for-the-badge&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/🌐_Community-2K+-C94444?style=for-the-badge&labelColor=0D1117" />
         <br><sub><b>Telegram Members</b></sub>
       </td>
       <td align="center">
