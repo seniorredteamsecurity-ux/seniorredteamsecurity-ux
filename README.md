@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://t.me/seniorredteamsecurity"><img src="https://img.shields.io/badge/Telegram-9K+_Members-0088cc?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117"/></a>
+  <a href="https://t.me/seniorredteamsecurity"><img src="https://img.shields.io/badge/Telegram-2K+_Members-0088cc?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117"/></a>
   <a href="mailto:seniorredteamsecurity@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Us-C94444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
   <a href="https://www.linkedin.com/in/senior-redteamsecurity"><img src="https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
 </div>
